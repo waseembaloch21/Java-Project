@@ -10,7 +10,7 @@ public class CalculatorGUI extends JFrame implements ActionListener {
 
     public CalculatorGUI() {
         // Frame settings
-        setTitle("🌟 Beautiful Calculator 🌟");
+        setTitle("🌟 Calculator 🌟");
         setSize(400, 500);
         setLocationRelativeTo(null);
         setDefaultCloseOperation(EXIT_ON_CLOSE);
